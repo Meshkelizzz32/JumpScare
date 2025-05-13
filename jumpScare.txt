@@ -1,0 +1,13 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING powershell
+DELAY 500
+ENTER
+DELAY 1000
+STRING cd C:\Users\Artem\Desktop\JumpScare
+DELAY 500
+ENTER
+DELAY 500
+STRING .\JumpScare.ps1
+ENTER
